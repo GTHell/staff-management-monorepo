@@ -2,7 +2,7 @@
 	path = staff-management
 	url = https://github.com/GTHell/staff-management-backend
 	branch = main
-[submodule "staff-management-web-app"]
-	path = staff-management-web-app
+[submodule "staff-management-app"]
+	path = staff-management-app
 	url = https://github.com/GTHell/staff-management-web-app
 	branch = main
