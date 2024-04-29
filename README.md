@@ -1,3 +1,5 @@
+![web-app](https://github.com/gthell/sfaff-management-web-app/actions/workflows/8873898964.yml/badge.svg)
+
 # Staff Management Application
 
 For simplicity, the application is divided into two parts: the [backend](https://github.com/GTHell/staff-management-backend) and the [frontend](https://github.com/GTHell/staff-management-web-app).
